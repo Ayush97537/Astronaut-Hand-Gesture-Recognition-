@@ -1,4 +1,4 @@
-# Astronaut-Hand-Gesture-Recognition-
+# Astronaut-Hand-Gesture-Recognition
 Hand Gesture Recognition using MediaPipe and Random Forest 
 ## Overview
 This project implements a real-time hand gesture recognition system for astronaut command applications using MediaPipe and a Random Forest classifier.
